@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 SizedBox(height: 40),
                 Image.asset(
-                  "assets/girl.jpg",
+                  "assets/daily.jpg",
                   scale: 5,
                 ),
                 SizedBox(height: 40),

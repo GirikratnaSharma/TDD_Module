@@ -68,7 +68,7 @@ class VideoState extends State<Splash> with SingleTickerProviderStateMixin {
                   Padding(
                       padding: EdgeInsets.only(bottom: 30.0),
                       child: new Image.asset(
-                        'assets/powered_by.png',
+                        'assets/mainlogo.png',
                         height: 25.0,
                         fit: BoxFit.scaleDown,
                       ))
@@ -78,7 +78,7 @@ class VideoState extends State<Splash> with SingleTickerProviderStateMixin {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   new Image.asset(
-                    'assets/devs.jpg',
+                    'assets/tdd.jpg',
                     width: animation.value * 250,
                     height: animation.value * 250,
                   ),
