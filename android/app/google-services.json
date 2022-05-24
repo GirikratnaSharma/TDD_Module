@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644952585212",
+    "project_id": "tdd-login-1234",
+    "storage_bucket": "tdd-login-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644952585212:android:695c998c10ac825e71f879",
+        "android_client_info": {
+          "package_name": "com.example.tdd_module"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644952585212-a034a24ql9kn9phrkcs62vtcr52imf7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWE5Yz6jRSLpaiBWjjL2vZKOeoo-Hgb4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644952585212-a034a24ql9kn9phrkcs62vtcr52imf7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
