@@ -50,9 +50,7 @@ class _MyAppState extends State<MyApp> {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
         systemNavigationBarColor: Colors.grey[400],
 //        statusBarColor: Styles.blueColor,
-        statusBarIconBrightness:
-            Brightness.light //or set color with: Color(0xFF0000FF)
-        ));
+        statusBarIconBrightness: Brightness.light));
     return ChangeNotifierProvider<SignInViewModel>(
       create: (_) => SignInViewModel(),
       child: Center(
